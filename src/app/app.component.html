@@ -1,0 +1,8 @@
+<h1>Formación Complementaría</h1>
+<div class="cont-ol">
+    <ol *ngFor="let item of Certificados" class="border border-primary">
+        <li class="titulo">{{ item.titulo }}</li>
+        <div class="linea"></div>
+        <li>{{ item.cuerpo }}</li>
+    </ol>
+</div>

@@ -9,6 +9,10 @@ export class AppComponent {
   title = 'portfolio';
   public Certificados = [
     {
+      titulo: 'ELEMENTAL A1 de INGLÉS',
+      cuerpo: '108 horas, Academía de Idiomas SMART Medellín, 2021'
+    },
+    {
       titulo: 'Fundamentos SCRUM',
       cuerpo: '40 horas, Sophos Solutions Medellín, 2021'
     },

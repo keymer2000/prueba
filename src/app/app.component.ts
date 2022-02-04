@@ -10,7 +10,7 @@ export class AppComponent {
   public Certificados = [
     {
       titulo: 'ELEMENTAL A1 de INGLÉS',
-      cuerpo: '108 horas, Academía de Idiomas SMART Medellín, 2021'
+      cuerpo: '108 horas, Academía de Idiomas SMART Medellín, 2022'
     },
     {
       titulo: 'Fundamentos SCRUM',
